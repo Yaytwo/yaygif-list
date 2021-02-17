@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Animals",
+        "gifId": "xxx",
+        "gifs": [
+            {
+                "gifId": "xxx"
+            },
+            {
+                "gifId": "xxx"
+            },
+            {
+                "gifId": "xxx"
+            }
+        ]
+    },
+    {
+        "title": "Birthday",
+        "gifId": "xxx",
+        "gifs": [
+            {
+                "gifId": "xxx"
+            },
+            {
+                "gifId": "xxx"
+            },
+            {
+                "gifId": "xxx"
+            }
+        ]
+    },
+    {
+        "title": "Celebrities",
+        "gifId": "xxx",
+        "gifs": [
+            {
+                "gifId": "xxx"
+            },
+            {
+                "gifId": "xxx"
+            },
+            {
+                "gifId": "xxx"
+            }
+        ]
+    }
+]
