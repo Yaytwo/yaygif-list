@@ -1,20 +1,41 @@
-[
-    {
-        "id": "animals",
-        "title": "Animals",
-        "cover": {
-            "urlString": "https://media0.giphy.com/media/tsRqkQCs972nTvtojc/giphy.gif"
-        },
-        "gifs": [
-            {
+{
+    "version": 1,
+    "categories": [
+        {
+            "id": "animals",
+            "title": "Animals",
+            "cover": {
                 "urlString": "https://media0.giphy.com/media/tsRqkQCs972nTvtojc/giphy.gif"
             },
-            {
-                "urlString": "https://i.pinimg.com/originals/3c/ae/f2/3caef2e015d91b497882d4857301f120.gif"
+            "gifs": [
+                {
+                    "urlString": "https://media0.giphy.com/media/tsRqkQCs972nTvtojc/giphy.gif"
+                },
+                {
+                    "urlString": "https://i.pinimg.com/originals/3c/ae/f2/3caef2e015d91b497882d4857301f120.gif"
+                },
+                {
+                    "urlString": "https://media0.giphy.com/media/L9AqjFr6H4iaY/giphy.gif"
+                }
+            ]
+        },
+        {
+            "id": "celebrities",
+            "title": "Celebrities",
+            "cover": {
+                "urlString": "https://media2.giphy.com/media/Ep3f3f75LRqCUfkfhe/giphy.gif"
             },
-            {
-                "urlString": "https://media0.giphy.com/media/L9AqjFr6H4iaY/giphy.gif"
-            }
-        ]
-    }
-]
+            "gifs": [
+                {
+                    "urlString": "https://media2.giphy.com/media/Ep3f3f75LRqCUfkfhe/giphy.gif"
+                },
+                {
+                    "urlString": "https://i.pinimg.com/originals/56/27/3a/56273a797346d1589737e1bdb5fb487c.gif"
+                },
+                {
+                    "urlString": "https://media2.giphy.com/media/KEHZY7KS5WrhgTE1TF/giphy.gif"
+                }
+            ]
+        }
+    ]
+}
