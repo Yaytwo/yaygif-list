@@ -1,46 +1,19 @@
 [
     {
+        "id": "animals",
         "title": "Animals",
-        "gifId": "xxx",
+        "cover": {
+            "urlString": "https://media0.giphy.com/media/tsRqkQCs972nTvtojc/giphy.gif"
+        },
         "gifs": [
             {
-                "gifId": "xxx"
+                "urlString": "https://media0.giphy.com/media/tsRqkQCs972nTvtojc/giphy.gif"
             },
             {
-                "gifId": "xxx"
+                "urlString": "https://i.pinimg.com/originals/3c/ae/f2/3caef2e015d91b497882d4857301f120.gif"
             },
             {
-                "gifId": "xxx"
-            }
-        ]
-    },
-    {
-        "title": "Birthday",
-        "gifId": "xxx",
-        "gifs": [
-            {
-                "gifId": "xxx"
-            },
-            {
-                "gifId": "xxx"
-            },
-            {
-                "gifId": "xxx"
-            }
-        ]
-    },
-    {
-        "title": "Celebrities",
-        "gifId": "xxx",
-        "gifs": [
-            {
-                "gifId": "xxx"
-            },
-            {
-                "gifId": "xxx"
-            },
-            {
-                "gifId": "xxx"
+                "urlString": "https://media0.giphy.com/media/L9AqjFr6H4iaY/giphy.gif"
             }
         ]
     }
