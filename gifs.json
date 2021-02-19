@@ -5,26 +5,23 @@
             "id": "animals",
             "title": "Animals",
             "cover": {
-                "urlString": "https://media0.giphy.com/media/tsRqkQCs972nTvtojc/giphy.gif"
+                "id": "tsRqkQCs972nTvtojc"
             },
             "gifs": [
                 {
-                    "urlString": "https://media0.giphy.com/media/tsRqkQCs972nTvtojc/giphy.gif"
+                    "id": "tsRqkQCs972nTvtojc"
                 },
                 {
-                    "urlString": "https://i.pinimg.com/originals/3c/ae/f2/3caef2e015d91b497882d4857301f120.gif"
+                    "id": "L9AqjFr6H4iaY"
                 },
                 {
-                    "urlString": "https://media0.giphy.com/media/L9AqjFr6H4iaY/giphy.gif"
+                    "id": "26xBAcK27j5jGhnSo"
                 },
                 {
-                    "urlString": "https://media4.giphy.com/media/26xBAcK27j5jGhnSo/giphy.gif"
+                    "id": "l0Exx1DQOB1h6r5Is"
                 },
                 {
-                    "urlString": "https://media4.giphy.com/media/l0Exx1DQOB1h6r5Is/giphy.gif"
-                },
-                {
-                    "urlString": "https://media4.giphy.com/media/l0ExePyQPTPQ5gbSM/giphy.gif"
+                    "id": "l0ExePyQPTPQ5gbSM"
                 }
             ]
         },
@@ -32,17 +29,14 @@
             "id": "celebrities",
             "title": "Celebrities",
             "cover": {
-                "urlString": "https://media2.giphy.com/media/Ep3f3f75LRqCUfkfhe/giphy.gif"
+                "id": "Ep3f3f75LRqCUfkfhe"
             },
             "gifs": [
                 {
-                    "urlString": "https://media2.giphy.com/media/Ep3f3f75LRqCUfkfhe/giphy.gif"
+                    "id": "Ep3f3f75LRqCUfkfhe"
                 },
                 {
-                    "urlString": "https://i.pinimg.com/originals/56/27/3a/56273a797346d1589737e1bdb5fb487c.gif"
-                },
-                {
-                    "urlString": "https://media2.giphy.com/media/KEHZY7KS5WrhgTE1TF/giphy.gif"
+                    "id": "KEHZY7KS5WrhgTE1TF"
                 }
             ]
         }
