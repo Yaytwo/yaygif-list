@@ -26,6 +26,21 @@
             ]
         },
         {
+            "id": "birthday",
+            "title": "Birthday",
+            "cover": {
+                "id": "l4KibWpBGWchSqCRy"
+            },
+            "gifs": [
+                {
+                    "id": "l4KibWpBGWchSqCRy"
+                },
+                {
+                    "id": "SRO0ZwmImic0"
+                }
+            ]
+        },
+        {
             "id": "celebrities",
             "title": "Celebrities",
             "cover": {
@@ -37,6 +52,102 @@
                 },
                 {
                     "id": "KEHZY7KS5WrhgTE1TF"
+                }
+            ]
+        },
+        {
+            "id": "emotions",
+            "title": "Emotions",
+            "cover": {
+                "id": "ANbD1CCdA3iI8"
+            },
+            "gifs": [
+                {
+                    "id": "ANbD1CCdA3iI8"
+                },
+                {
+                    "id": "t9ctG5MZhyyU8"
+                },
+                {
+                    "id": "jOpLbiGmHR9S0"
+                }
+            ]
+        },
+        {
+            "id": "food",
+            "title": "Food",
+            "cover": {
+                "id": "12uXi1GXBibALC"
+            },
+            "gifs": [
+                {
+                    "id": "12uXi1GXBibALC"
+                },
+                {
+                    "id": "jKaFXbKyZFja0"
+                },
+                {
+                    "id": "eSQKNSmg07dHq"
+                },
+                {
+                    "id": "EDV30lQQ9VW5q"
+                }
+            ]
+        },
+        {
+            "id": "love",
+            "title": "Love",
+            "cover": {
+                "id": "26FLdmIp6wJr91JAI"
+            },
+            "gifs": [
+                {
+                    "id": "26FLdmIp6wJr91JAI"
+                },
+                {
+                    "id": "3oriO6qJiXajN0TyDu"
+                },
+                {
+                    "id": "3o7TKoWXm3okO1kgHC"
+                },
+                {
+                    "id": "26xBFT1F9BgskEvTO"
+                }
+            ]
+        },
+        {
+            "id": "movies",
+            "title": "Movies",
+            "cover": {
+                "id": "FmTBAySyc7HHy"
+            },
+            "gifs": [
+                {
+                    "id": "FmTBAySyc7HHy"
+                },
+                {
+                    "id": "F47qASXDMJcOY"
+                },
+                {
+                    "id": "LG39g1Z7Q0Kpq"
+                },
+                {
+                    "id": "WrKkFqdpoOUBq"
+                }
+            ]
+        },
+        {
+            "id": "nature",
+            "title": "Nature",
+            "cover": {
+                "id": "kn2GtngXJ3hZu"
+            },
+            "gifs": [
+                {
+                    "id": "kn2GtngXJ3hZu"
+                },
+                {
+                    "id": "12qHWnTUBzLWXS"
                 }
             ]
         }
